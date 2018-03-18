@@ -14,6 +14,7 @@
 		<description>Allows access to EzCC tweaks.</description>
 	</descriptionlist>
 	<changelog>
+		<change>Fixed Update bug!</change>
 		<change>First Release</change>
 	</changelog>
 	<links>
