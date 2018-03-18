@@ -3,7 +3,7 @@ Version: 0.0.1
 Section: Utilities
 Maintainer: M4cs
 Depends: mobilesubstrate
-Conflicts: com.ioscreatix.silo
+Conflicts: 
 Architecture: iphoneos-arm
 Filename: ./debs/com.m4cs.ezframework.deb
 Size: 6400
