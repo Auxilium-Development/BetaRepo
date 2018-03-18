@@ -1,4 +1,4 @@
-Package: EzFramework
+Package: com.m4cs.ezframework_0.0.1-1+debug_iphoneos-arm
 Version: 0.0.1
 Section: Utilities
 Maintainer: M4cs
@@ -7,7 +7,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.m4cs.ezframework_0.0.1-1+debug_iphoneos-arm.deb
 Size: 6400
 MD5sum: 1146ee28ce80da2812eb951ba12ab59a
-Description: Framework needed for EzCC modules to work.
+Description: Allows access to EzCC tweaks.
 Name: EzFramework
 Author: M4cs Development Team
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezFramework
