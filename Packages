@@ -1,24 +1,9 @@
-Package: com.m4cs.ezframework
-Version: 0.0.1
-Section: Utilities
-Maintainer: M4cs (macs@m4cs.xyz)
-Depends: mobilesubstrate
-Conflicts: 
-Architecture: iphoneos-arm
-Filename: ./debs/com.m4cs.ezframework.deb
-Size: 6400
-MD5sum: 1146ee28ce80da2812eb951ba12ab59a
-Description: Allows access to EzCC tweaks.
-Name: EzFramework
-Author: M4cs Development Team
-Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezFramework
-
 Package: com.m4cs.ezccbeta
-Version: 0.6-beta
+Version: 0.6.1-beta
 Section: Tweaks
 Maintainer: M4cs (macs@m4cs.xyz)
 Depends: mobilesubstrate
-Conflicts: 
+Conflicts: com.m4cs.ezframework
 Architecture: iphoneos-arm
 Filename: ./debs/com.m4cs.ezccbeta.deb
 Size: 52448
