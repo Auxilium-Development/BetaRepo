@@ -1,0 +1,14 @@
+Package: Example
+Version: Example
+Section: Tweaks
+Maintainer: Author
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/EzCydiaOpener.deb
+Size: 
+MD5sum: 
+Description: 
+Name: 
+Author: 
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCydiaLauncher
+
