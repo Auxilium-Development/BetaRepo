@@ -12,3 +12,16 @@ Name: EzFramework
 Author: M4cs Development Team
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezFramework
 
+Package: com.m4cs.ezccbeta
+Version: 0.5-beta
+Section: Tweaks
+Maintainer: M4cs
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.m4cs.ezccbeta.deb
+Size: 52446
+MD5sum: 165400b8da9e56f1e94d266b30cae19c
+Description: EzCC Beta without Silo!
+Name: EzCC Beta
+Author: M4cs Development Team
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezEzccbeta
