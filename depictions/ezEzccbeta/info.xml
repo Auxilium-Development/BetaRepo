@@ -1,7 +1,7 @@
 <package>
 	<id>com.m4cs.ezccbeta</id>
 	<name>EzCC Beta</name>
-	<version>1.0-beta</version>
+	<version>0.6-beta</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -11,7 +11,7 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>EzCC Beta without Silo!</description>
+		<description>Allows access to EzCC tweaks.</description>
 	</descriptionlist>
 	<changelog>
 		<change>First Release</change>
