@@ -1,7 +1,7 @@
 Package: com.m4cs.ezframework
 Version: 0.0.1
 Section: Utilities
-Maintainer: M4cs
+Maintainer: M4cs (macs@m4cs.xyz)
 Depends: mobilesubstrate
 Conflicts: 
 Architecture: iphoneos-arm
@@ -16,7 +16,7 @@ Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezFramework
 Package: com.m4cs.ezccbeta
 Version: 0.6-beta
 Section: Tweaks
-Maintainer: M4cs
+Maintainer: M4cs (macs@m4cs.xyz)
 Depends: mobilesubstrate
 Conflicts: 
 Architecture: iphoneos-arm
