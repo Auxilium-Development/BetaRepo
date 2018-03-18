@@ -1,0 +1,12 @@
+Package: com.m4cs.ezccbeta
+Version: 0.6.1-beta
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.m4cs.ezccbeta.deb
+Description: Allows access to EzCC tweaks.
+Name: EzCC Beta
+Author: M4cs Development Team
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezEzccbeta
+Conflicts: com.m4cs.ezframework
