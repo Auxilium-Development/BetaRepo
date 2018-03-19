@@ -1,7 +1,7 @@
 <package>
 	<id>com.m4cs.googleauthenticator</id>
 	<name>EzGoogleAuthenticator</name>
-	<version>0.3-beta</version>
+	<version>0.4-beta</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
