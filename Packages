@@ -13,6 +13,21 @@ Name: EzCC Beta
 Author: M4cs Development Team
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezEzccbeta
 
+Package: com.m4cs.googleauthenticator
+Version: 0.2-beta
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Conflicts: 
+Architecture: iphoneos-arm
+Filename: ./debs/com.m4cs.googleauthenticator.deb
+Size: 9430
+MD5sum: ecf48f9ad12a110e277a0858fcd4fae4
+Description: Google Authenticator Launcher for your CC.
+Name: EzGoogleAuthenticator
+Author: M4cs Development Team
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezGA
+
 Package: com.m4cs.settingsopener
 Version: 0.2-beta
 Section: Tweaks
