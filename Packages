@@ -21,8 +21,8 @@ Depends: mobilesubstrate
 Conflicts: 
 Architecture: iphoneos-arm
 Filename: ./debs/com.m4cs.googleauthenticator.deb
-Size: 9424
-MD5sum: 7d1d5ceec2f534bb5a9c505f0aaf2ab0
+Size: 9430
+MD5sum: 5e9b11560ede57dd00561145fdaf6108
 Description: Google Authenticator Launcher for your CC.
 Name: EzGoogleAuthenticator
 Author: M4cs Development Team
