@@ -1,13 +1,13 @@
 Package: com.m4cs.ezccbeta
-Version: 0.8-beta
+Version: 0.9-beta
 Section: Tweaks
 Maintainer: M4cs (macs@m4cs.xyz)
 Depends: mobilesubstrate
 Conflicts: com.m4cs.ezframework, com.m4cs.settings, com.m4cs.snapchat, com.m4cs.googleauthenticator
 Architecture: iphoneos-arm
 Filename: ./debs/com.m4cs.ezccbeta.deb
-Size: 74198
-MD5sum: 8dab3a6189a42aff490f13b8d5a9729e
+Size: 73748
+MD5sum: 4039d501713d11f2582ce11f5b5a02f4
 Description: Allows access to EzCC tweaks.
 Name: EzCC Beta
 Author: M4cs Development Team

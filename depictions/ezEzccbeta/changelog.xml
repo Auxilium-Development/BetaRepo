@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>0.9-beta</version>
+		<change>Fixed white bug</change>
 		<version>0.8-beta</version>
 		<change>Added Safari and Music!</change>
 		<version>0.7-beta</version>
