@@ -27,3 +27,18 @@ Description: Settings Launcher for your CC.
 Name: EzSettingsOpener
 Author: M4cs Development Team
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezSettings
+
+Package: com.m4cs.snapchatopener
+Version: 0.1-beta
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Conflicts: 
+Architecture: iphoneos-arm
+Filename: ./debs/com.m4cs.snapchatopener.deb
+Size: 8048
+MD5sum: 902409c72bef71614b5f80c4f15269e7
+Description: Snapchat Launcher for your CC.
+Name: EzSnapOpener
+Author: M4cs Development Team
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezSnap
