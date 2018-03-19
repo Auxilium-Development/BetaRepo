@@ -1,6 +1,6 @@
 <package>
-	<id>com.m4cs.settingsopener</id>
-	<name>EzSettingsOpener</name>
+	<id>com.m4cs.settings</id>
+	<name>EzSettings</name>
 	<version>0.2-beta</version>
 	<compatibility>
 		<firmware>

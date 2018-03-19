@@ -35,11 +35,11 @@ Maintainer: M4cs (macs@m4cs.xyz)
 Depends: mobilesubstrate
 Conflicts: 
 Architecture: iphoneos-arm
-Filename: ./debs/com.m4cs.settingsopener.deb
-Size: 10500
-MD5sum: 3a3a854f6a33fc8fb2138eb48c5f7a51
+Filename: ./debs/com.m4cs.settings.deb
+Size: 10474
+MD5sum: 4b6145ccaf0e9f40613494600e8bff72
 Description: Settings Launcher for your CC.
-Name: EzSettingsOpener
+Name: EzSettings
 Author: M4cs Development Team
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezSettings
 
