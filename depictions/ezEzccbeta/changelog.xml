@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>0.7=beta</version>
+		<change>Added other EzLauncher Toggles</change>
 		<version>0.6.1-beta</version>
 		<change>Fixed EzFramework bug</change>
 		<version>0.6-beta</version>
