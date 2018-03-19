@@ -14,7 +14,7 @@ Author: M4cs Development Team
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezEzccbeta
 
 Package: com.m4cs.settingsopener
-Version: 0.1-beta
+Version: 0.2-beta
 Section: Tweaks
 Maintainer: M4cs (macs@m4cs.xyz)
 Depends: mobilesubstrate
@@ -22,7 +22,7 @@ Conflicts:
 Architecture: iphoneos-arm
 Filename: ./debs/com.m4cs.settingsopener.deb
 Size: 10500
-MD5sum: e1dc452fab32f4f923bb0f1db3c73d6b
+MD5sum: 3a3a854f6a33fc8fb2138eb48c5f7a51
 Description: Settings Launcher for your CC.
 Name: EzSettingsOpener
 Author: M4cs Development Team

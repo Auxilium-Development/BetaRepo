@@ -1,7 +1,7 @@
 <package>
 	<id>com.m4cs.settingsopener</id>
 	<name>EzSettingsOpener</name>
-	<version>0.1-beta</version>
+	<version>0.2-beta</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -14,6 +14,7 @@
 		<description>Settings Launcher for your CC.</description>
 	</descriptionlist>
 	<changelog>
+		<change>Bug fixes.</change>
 		<change>First Release</change>
 	</changelog>
 	<links>
