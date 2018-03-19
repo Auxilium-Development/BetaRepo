@@ -3,7 +3,7 @@ Version: 0.7-beta
 Section: Tweaks
 Maintainer: M4cs (macs@m4cs.xyz)
 Depends: mobilesubstrate
-Conflicts: com.m4cs.ezframework
+Conflicts: com.m4cs.ezframework, com.m4cs.googleauthenticator, com.m4cs.settings, com.m4cs.snapchatopener
 Architecture: iphoneos-arm
 Filename: ./debs/com.m4cs.ezccbeta.deb
 Size: 67206
