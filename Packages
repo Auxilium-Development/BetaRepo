@@ -28,7 +28,7 @@ Name: EzGoogleAuthenticator
 Author: M4cs Development Team
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezGA
 
-Package: com.m4cs.settingsopener
+Package: com.m4cs.settings
 Version: 0.2-beta
 Section: Tweaks
 Maintainer: M4cs (macs@m4cs.xyz)
