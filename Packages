@@ -1,14 +1,14 @@
 Package: com.m4cs.ezccbeta
-Version: 0.9-beta
+Version: 0.9.1-beta
 Section: Tweaks
 Maintainer: M4cs (macs@m4cs.xyz)
 Depends: mobilesubstrate
 Conflicts: com.m4cs.ezframework, com.m4cs.settings, com.m4cs.snapchat, com.m4cs.googleauthenticator
 Architecture: iphoneos-arm
 Filename: ./debs/com.m4cs.ezccbeta.deb
-Size: 73748
-MD5sum: 4039d501713d11f2582ce11f5b5a02f4
-Description: Allows access to EzCC tweaks.
+Size: 85750
+MD5sum: 504a37e54b3f4e69cc7755473a4e3de4
+Description: EzCC Modules with App Launchers! Now supporting Safari, Chrome, GoogleAuthenticator, Google Play Music, Apple Music, Phone App, Snapchat, Discord, Cydia, and Settings!.
 Name: EzCC Beta
 Author: M4cs Development Team
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezEzccbeta

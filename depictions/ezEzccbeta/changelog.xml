@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>0.9.1-beta</version>
+		<change>Added multiple apps!</change>
 		<version>0.9-beta</version>
 		<change>Fixed white bug</change>
 		<version>0.8-beta</version>
