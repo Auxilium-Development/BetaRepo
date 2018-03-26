@@ -11,7 +11,7 @@ MD5sum: 504a37e54b3f4e69cc7755473a4e3de4
 Description: EzCC Modules with App Launchers! Now supporting Safari, Chrome, GoogleAuthenticator, Google Play Music, Apple Music, Phone App, Snapchat, Discord, Cydia, and Settings!.
 Name: EzCC Beta
 Author: M4cs Development Team
-Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezEzccbeta
+Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezEzccbeta
 
 Package: com.m4cs.googleauthenticator
 Version: 0.4-beta
@@ -26,7 +26,7 @@ MD5sum: 0977a0ae3b354cc954ada02b4ac3734c
 Description: Google Authenticator Launcher for your CC.
 Name: EzGoogleAuthenticator
 Author: M4cs Development Team
-Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezGA
+Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezGA
 
 Package: com.m4cs.settings
 Version: 0.2-beta
@@ -41,7 +41,7 @@ MD5sum: 4b6145ccaf0e9f40613494600e8bff72
 Description: Settings Launcher for your CC.
 Name: EzSettings
 Author: M4cs Development Team
-Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezSettings
+Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezSettings
 
 Package: com.m4cs.snapchatopener
 Version: 0.1-beta
@@ -56,4 +56,4 @@ MD5sum: 902409c72bef71614b5f80c4f15269e7
 Description: Snapchat Launcher for your CC.
 Name: EzSnapOpener
 Author: M4cs Development Team
-Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezSnap
+Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezSnap
