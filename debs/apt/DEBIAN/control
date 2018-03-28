@@ -1,0 +1,9 @@
+Package: com.Auxilium.ezapt
+Name: EzApt
+Architecture: iphoneos-arm
+Description: Apt-get Update Toggle
+Author: Auxilium Development
+Section: Tweaks
+Maintainer: Auxilium Development
+Version: 0.0.1
+Installed-Size: 136
