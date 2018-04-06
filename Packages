@@ -1,76 +1,92 @@
-<<<<<<< Updated upstream
-Package: com.m4cs.ezccbeta
-Version: 0.9.1-beta
-Section: Tweaks
-Maintainer: M4cs (macs@m4cs.xyz)
-Depends: mobilesubstrate
-Conflicts: com.m4cs.ezframework, com.m4cs.settings, com.m4cs.snapchat, com.m4cs.googleauthenticator
-Architecture: iphoneos-arm
-Filename: ./debs/com.m4cs.ezccbeta.deb
-Size: 85750
-MD5sum: 504a37e54b3f4e69cc7755473a4e3de4
-Description: EzCC Modules with App Launchers! Now supporting Safari, Chrome, GoogleAuthenticator, Google Play Music, Apple Music, Phone App, Snapchat, Discord, Cydia, and Settings!.
-Name: EzCC Beta
-Author: M4cs Development Team
-Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezEzccbeta
 
-Package: com.m4cs.googleauthenticator
-Version: 0.4-beta
-Section: Tweaks
-Maintainer: M4cs (macs@m4cs.xyz)
-Depends: mobilesubstrate
-Conflicts: 
-Architecture: iphoneos-arm
-Filename: ./debs/com.m4cs.googleauthenticator.deb
-Size: 9422
-MD5sum: 0977a0ae3b354cc954ada02b4ac3734c
-Description: Google Authenticator Launcher for your CC.
-Name: EzGoogleAuthenticator
-Author: M4cs Development Team
-Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezGA
+Package: com.m4cs.ezccbeta 
+Version: 0.9.1-beta 
+Section: Tweaks 
+Maintainer: M4cs (macs@m4cs.xyz) 
++
+Depends: mobilesubstrate 
+Conflicts: com.m4cs.ezframework, com.m4cs.settings, com.m4cs.snapchat, com.m4cs.googleauthenticator 
+Architecture: iphoneos-arm 
+Filename: ./debs/com.m4cs.ezccbeta.deb 
+Size: 85750 
+MD5sum: 504a37e54b3f4e69cc7755473a4e3de4 
+Description: EzCC Modules with App Launchers! Now supporting Safari, Chrome, GoogleAuthenticator, Google Play Music, Apple Music, Phone App, Snapchat, Discord, Cydia, and Settings!. 
+Name: EzCC Beta 
+Author: M4cs Development Team 
+Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezEzccbeta 
+ 
+Package: com.m4cs.googleauthenticator 
+Version: 0.4-beta 
+Section: Tweaks 
+Maintainer: M4cs (macs@m4cs.xyz) 
+Depends: mobilesubstrate 
+Conflicts:  
+Architecture: iphoneos-arm 
+Filename: ./debs/com.m4cs.googleauthenticator.deb 
+Size: 9422 
+MD5sum: 0977a0ae3b354cc954ada02b4ac3734c 
+Description: Google Authenticator Launcher for your CC. 
+Name: EzGoogleAuthenticator 
+Author: M4cs Development Team 
+Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezGA 
+ 
+Package: com.m4cs.settings 
+Version: 0.2-beta 
+Section: Tweaks 
+Maintainer: M4cs (macs@m4cs.xyz) 
+Depends: mobilesubstrate 
+Conflicts:  
+Architecture: iphoneos-arm 
+Filename: ./debs/com.m4cs.settings.deb 
+Size: 10474 
+MD5sum: 4b6145ccaf0e9f40613494600e8bff72 
+Description: Settings Launcher for your CC. 
+Name: EzSettings 
+Author: M4cs Development Team 
+Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezSettings 
+ 
+Package: com.m4cs.snapchatopener 
+Version: 0.1-beta 
+Section: Tweaks 
+Maintainer: M4cs (macs@m4cs.xyz) 
+Depends: mobilesubstrate 
+Conflicts:  
+Architecture: iphoneos-arm 
+Filename: ./debs/com.m4cs.snapchatopener.deb 
+Size: 8048 
+MD5sum: 902409c72bef71614b5f80c4f15269e7 
+Description: Snapchat Launcher for your CC. 
+Name: EzSnapOpener 
+Author: M4cs Development Team 
+Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezSnap 
+ 
+Package: com.Auxilium.ezapt 
+Name: EzApt 
+Architecture: iphoneos-arm 
+Description: Apt-get Update Toggle 
+Author: Auxilium Development 
+Section: Tweaks 
+Maintainer: Auxilium Development 
+Version: 0.0.1 
+Installed-Size: 136 
+Size: 11482 
+MD5sum: 0165aaa7082bc8f0eee832f3afede13d 
+Filename: ./debs/ezApt.deb 
+Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezApt 
 
-Package: com.m4cs.settings
-Version: 0.2-beta
-Section: Tweaks
-Maintainer: M4cs (macs@m4cs.xyz)
+Package: com.midnightchips.fullscreenimessage
+Name: Full Screen iMessage
 Depends: mobilesubstrate
-Conflicts: 
 Architecture: iphoneos-arm
-Filename: ./debs/com.m4cs.settings.deb
-Size: 10474
-MD5sum: 4b6145ccaf0e9f40613494600e8bff72
-Description: Settings Launcher for your CC.
-Name: EzSettings
-Author: M4cs Development Team
-Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezSettings
-
-Package: com.m4cs.snapchatopener
-Version: 0.1-beta
+Description: An awesome MobileSubstrate tweak!
+Maintainer: MidnightChip
+Author: MidnightChip
 Section: Tweaks
-Maintainer: M4cs (macs@m4cs.xyz)
-Depends: mobilesubstrate
-Conflicts: 
-Architecture: iphoneos-arm
-Filename: ./debs/com.m4cs.snapchatopener.deb
-Size: 8048
-MD5sum: 902409c72bef71614b5f80c4f15269e7
-Description: Snapchat Launcher for your CC.
-Name: EzSnapOpener
-Author: M4cs Development Team
-Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezSnap
+Depiction: 
+Replaces : com.midnightchips.clearmessagetop
+Version: 0.0.2
+Installed-Size: 120
+Replaces : com.midnightchips.clearmessagetop
+Version: 0.0.2
+Installed-Size: 120
 
-Package: com.Auxilium.ezapt
-Name: EzApt
-Architecture: iphoneos-arm
-Description: Apt-get Update Toggle
-Author: Auxilium Development
-Section: Tweaks
-Maintainer: Auxilium Development
-Version: 0.0.1
-Installed-Size: 136
-Size: 11482
-MD5sum: 0165aaa7082bc8f0eee832f3afede13d
-Filename: ./debs/ezApt.deb
-Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezApt
-=======
->>>>>>> Stashed changes
