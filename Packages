@@ -89,5 +89,6 @@ Installed-Size: 120
 Replaces : com.midnightchips.clearmessagetop
 Version: 0.0.2
 Filename: ./debs/com.midnightchips.fullscreenimessage_0.0.2_iphoneos-arm.deb
-Installed-Size: 120
+MD5sum: 62a75242f717cd0fe173d83e564da1ca
+Size: 2862
 
