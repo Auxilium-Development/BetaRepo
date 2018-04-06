@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Package: com.m4cs.ezccbeta
 Version: 0.9.1-beta
 Section: Tweaks
@@ -71,3 +72,5 @@ Size: 11482
 MD5sum: 0165aaa7082bc8f0eee832f3afede13d
 Filename: ./debs/ezApt.deb
 Depiction: http://repo.auxiliumdev.com/repo/depictions/?p=ezApt
+=======
+>>>>>>> Stashed changes
