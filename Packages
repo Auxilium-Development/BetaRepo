@@ -84,12 +84,12 @@ Author: MidnightChip
 Section: Tweaks
 Depiction: 
 Replaces : com.midnightchips.clearmessagetop
-Version: 0.0.3-1+debug
+Version: 0.0.3-8+debug
 Installed-Size: 120
 Replaces : com.midnightchips.clearmessagetop
-Version: 0.0.3-1+debug
+Version: 0.0.3-8+debug
 Installed-Size: 120
-Filename: ./debs/com.midnightchips.fullscreenimessage_0.0.3_iphoneos-arm.deb
-MD5sum: 12448b440d9cc4d669dc2866eea1b6af
-Size: 3926
+Filename: ./debs/com.midnightchips.fullscreenimessage_0.0.3-8+debug_iphoneos-arm.deb
+MD5sum: bc2b032f6319114ab5514f9cb107ea00
+Size: 4122
 
