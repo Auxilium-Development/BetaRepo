@@ -82,14 +82,10 @@ Description: An awesome MobileSubstrate tweak!
 Maintainer: MidnightChip
 Author: MidnightChip
 Section: Tweaks
-Depiction: 
+Depiction:
 Replaces : com.midnightchips.clearmessagetop
-Version: 0.0.3-8+debug
-Installed-Size: 120
-Replaces : com.midnightchips.clearmessagetop
-Version: 0.0.3-8+debug
-Installed-Size: 120
-Filename: ./debs/com.midnightchips.fullscreenimessage_0.0.3-8+debug_iphoneos-arm.deb
-MD5sum: bc2b032f6319114ab5514f9cb107ea00
-Size: 4122
-
+Version: 0.0.3-10+debug
+Installed-Size: 124
+Filename: ./com.midnightchips.fullscreenimessage_0.0.3-10+debug_iphoneos-arm.deb
+Size: 5022
+MD5sum: bf79ee4d71045fab29e7eab1cb98f979
