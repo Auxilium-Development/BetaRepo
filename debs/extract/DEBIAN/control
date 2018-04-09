@@ -1,0 +1,12 @@
+Package: com.midnightchips.fullscreenimessage
+Name: Full Screen iMessage
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: MidnightChip
+Author: MidnightChip
+Section: Tweaks
+Depiction: 
+Replaces : com.midnightchips.clearmessagetop
+Version: 0.0.3-10+debug
+Installed-Size: 124
