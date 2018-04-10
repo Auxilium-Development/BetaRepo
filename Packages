@@ -91,7 +91,7 @@ Size: 5022
 MD5sum: bf79ee4d71045fab29e7eab1cb98f979
 
 Package: com.macs.sss
-Name: LuperSecretSwitcher
+Name: SuperSecretSwitcher
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -102,5 +102,5 @@ Author: Macs
 Section: Tweaks
 Filename: ./debs/com.macs.sss.deb
 Size: 1484
-MD5sum: 49719e4eab05c49ae760391e7f437b12
+MD5sum: d9364f380742992d1ca1bd4dcc7acbd0
 Depiction:
