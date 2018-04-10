@@ -90,17 +90,3 @@ Filename: ./debs/com.midnightchips.fullscreenimessage_0.0.3-10+debug_iphoneos-ar
 Size: 5022
 MD5sum: bf79ee4d71045fab29e7eab1cb98f979
 
-Package: com.macs.sss
-Name: SuperSecretSwitcher
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Hide your app card views!
-Depends: mobilesubstrate
-Maintainer: Macs (macs@gmail.com)
-Author: Macs
-Section: Tweaks
-Filename: ./debs/com.macs.sss.deb
-Size: 1484
-MD5sum: d9364f380742992d1ca1bd4dcc7acbd0
-Depiction:
