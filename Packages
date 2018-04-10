@@ -89,3 +89,18 @@ Installed-Size: 124
 Filename: ./debs/com.midnightchips.fullscreenimessage_0.0.3-10+debug_iphoneos-arm.deb
 Size: 5022
 MD5sum: bf79ee4d71045fab29e7eab1cb98f979
+
+Package: com.macs.sss
+Name: LuperSecretSwitcher
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide your app card views!
+Depends: mobilesubstrate
+Maintainer: Macs (macs@gmail.com)
+Author: Macs
+Section: Tweaks
+Filename: ./debs/com.macs.sss.deb
+Size: 1484
+MD5sum: 49719e4eab05c49ae760391e7f437b12
+Depiction:
